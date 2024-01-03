@@ -1,0 +1,50 @@
+[
+    {
+        "package": "gagglr",
+        "url": "https://github.com/USAID-OHA-SI/gagglr"
+    },
+    {
+        "package": "glitr",
+        "url": "https://github.com/USAID-OHA-SI/glitr"
+    },
+    {
+        "package": "glamr",
+        "url": "https://github.com/USAID-OHA-SI/glamr"
+    },
+    {
+        "package": "gophr",
+        "url": "https://github.com/USAID-OHA-SI/gophr"
+    },
+    {
+        "package": "gisr",
+        "url": "https://github.com/USAID-OHA-SI/gisr"
+    },
+    {
+        "package": "grabr",
+        "url": "https://github.com/USAID-OHA-SI/grabr"
+    },
+    {
+        "package": "tameDP",
+        "url": "https://github.com/USAID-OHA-SI/tameDP"
+    },
+    {
+        "package": "mindthegap",
+        "url": "https://github.com/USAID-OHA-SI/mindthegap"
+    },
+    {
+        "package": "themask",
+        "url": "https://github.com/USAID-OHA-SI/themask"
+    },
+    {
+        "package": "selfdestructin5",
+        "url": "https://github.com/USAID-OHA-SI/selfdestructin5"
+    },
+    {
+        "package": "Wavelength",
+        "url": "https://github.com/USAID-OHA-SI/Wavelength"
+    },
+    {
+        "package": "COVIDutilities",
+        "url": "https://github.com/USAID-OHA-SI/COVIDutilities"
+    }
+]
